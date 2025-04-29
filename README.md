@@ -130,7 +130,7 @@ After forking, open your terminal and run the following commands to clone the re
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/job-tracker
+git clone (https://github.com/saifakhtar09)
 Navigate to the Project Directory 📂 Once the repository is cloned, change your directory to the project folder:
 
 bash
