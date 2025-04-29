@@ -2,7 +2,7 @@ Version 2
 
 
 🔗 [View on GitHub]  ![image] ()
-🔗 [v2 Portfolio]
+🔗 [v2 Job Tracker]
 
 Job Tracker Website
 <div align="center"> <pre> Job Tracker </pre> </div>
